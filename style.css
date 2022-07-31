@@ -1,0 +1,15 @@
+.item {
+  border: 1px solid #fff;
+  color: #80b3c2;
+  height: 20px;
+}
+
+body {
+  background-color: #171819;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
