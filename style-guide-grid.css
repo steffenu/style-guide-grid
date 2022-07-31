@@ -1,5 +1,5 @@
 .container {
-  width: 100%;
+  max-width: 100%;
   padding-right: 15px;
   padding-left: 15px;
   margin-right: auto;
@@ -14,14 +14,14 @@
   margin-left: auto;
 }
 
-/* WIDE TABLET */
+/* DESKTOP */
 @media (max-width: 1194px) {
   .container {
     max-width: 1194px;
   }
 }
 
-/* DESKTOP */
+/* WIDE TABLET */
 @media (max-width: 1080px) {
   .container {
     max-width: 1080px;
