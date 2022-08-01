@@ -15,9 +15,9 @@
 }
 
 /* DESKTOP */
-@media (max-width: 1080px) {
+@media (max-width: 1920px) {
   .container {
-    max-width: 1080px;
+    max-width: 1920px;
   }
 }
 
@@ -196,7 +196,7 @@
   max-width: 100%;
 }
 
-@media (max-width: 1080px) {
+@media (max-width: 1920px) {
   .col-lg {
     -ms-flex-preferred-size: 0;
     flex-basis: 0;
